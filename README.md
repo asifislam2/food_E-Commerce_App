@@ -1,0 +1,6 @@
+# food_E-Commerce_App![login_page](https://github.com/asifislam2/food_E-Commerce_App/assets/111923685/1e3ae1ba-2be2-4397-be0b-3021301e2f8b)
+![reg_page](https://github.com/asifislam2/food_E-Commerce_App/assets/111923685/ac11d2a7-4364-4d16-a568-c4e3e6a8e429)
+![home_page](https://github.com/asifislam2/food_E-Commerce_App/assets/111923685/beb4d2bb-849b-4acb-879b-e9eb0eaec179)
+![details_page](https://github.com/asifislam2/food_E-Commerce_App/assets/111923685/717afe26-48c6-4d8f-8b65-ea073c047e63)
+![kitchenPage](https://github.com/asifislam2/food_E-Commerce_App/assets/111923685/918182dc-3cfe-41f7-bcc2-3ff75993f708)
+![navigation](https://github.com/asifislam2/food_E-Commerce_App/assets/111923685/e7b9f5b6-381d-4dfa-b2aa-2020a192e86b)
