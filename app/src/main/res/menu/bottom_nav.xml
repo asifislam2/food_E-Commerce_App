@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/food_network"
+        android:title="Food Network"
+        android:icon="@drawable/baseline_fastfood_24"
+        />
+
+    <item
+        android:id="@+id/Delish"
+        android:title="Delish"
+        android:icon="@drawable/baseline_food_bank_24"
+        />
+
+    <item
+        android:id="@+id/TheKitchn"
+        android:title="TheKitchn"
+        android:icon="@drawable/baseline_emoji_food_beverage_24"
+        />
+
+
+    <item
+        android:id="@+id/Seriouseats"
+        android:title="Seriouseats"
+        android:icon="@drawable/baseline_no_food_24"
+        />
+
+
+</menu>

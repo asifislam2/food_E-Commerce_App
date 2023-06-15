@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918059744641",
+    "project_id": "food-ecommerce-967b6",
+    "storage_bucket": "food-ecommerce-967b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918059744641:android:f29840cc85bc13b5be3c80",
+        "android_client_info": {
+          "package_name": "com.amyauth.devilfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918059744641-0s9drc6f6oa5asla16anin1hfdsuausa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdUujsFfqwnj2whx4dbcoX6YnRvgBajr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918059744641-0s9drc6f6oa5asla16anin1hfdsuausa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
